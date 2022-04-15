@@ -1,0 +1,10 @@
+[
+  {
+    "model": "game_library_api.gameFacts",
+    "pk": 1,
+    "fields": {
+      "game": 1,
+      "fact": "It took us 40 hours to make the Seamoth!"
+    }
+  }
+]

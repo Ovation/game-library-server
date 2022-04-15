@@ -1,0 +1,9 @@
+[
+  {
+    "model": "game_library_api.gamer",
+    "pk": 1,
+    "fields": {
+      "user": 1
+    }
+  }
+]

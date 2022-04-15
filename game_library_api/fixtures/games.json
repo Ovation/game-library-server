@@ -1,0 +1,13 @@
+[
+  {
+    "model": "game_library_api.game",
+    "pk": 1,
+    "fields": {
+      "gamer": 1,
+      "title": "Subnautica",
+      "description": "An action game set underwater.",
+      "date": "2020-08-28T14:51:39.989Z",
+      "category": 1
+    }
+  }
+]

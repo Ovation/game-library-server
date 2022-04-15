@@ -1,0 +1,11 @@
+[
+  {
+    "model": "game_library_api.friendlist",
+    "pk": 1,
+    "fields": {
+      "gamer": 1,
+      "friend": 1,
+      "date": "2020-08-28T14:51:39.989Z"
+    }
+  }
+]

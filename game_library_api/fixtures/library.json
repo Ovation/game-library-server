@@ -1,0 +1,11 @@
+[
+  {
+    "model": "game_library_api.library",
+    "pk": 1,
+    "fields": {
+      "gamer": 1,
+      "game": 1,
+      "isFavorite": true
+    }
+  }
+]

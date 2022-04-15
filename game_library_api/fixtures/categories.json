@@ -1,0 +1,9 @@
+[
+  {
+    "model": "game_library_api.category",
+    "pk": 1,
+    "fields": {
+      "label": "Action/Adventure"
+    }
+  }
+]
