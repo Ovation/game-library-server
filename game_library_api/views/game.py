@@ -4,7 +4,6 @@ from rest_framework.response import Response
 from rest_framework import serializers, status
 from game_library_api.models import Gamer, Game, Category
 from django.contrib.auth.models import User
-from game_library_api.views import CategorySerializer
 
 
 class GameView(ViewSet):
